@@ -1,0 +1,16 @@
+*.class
+*.ear
+*.ipr
+*.iws
+*.jar
+*.log
+*.war
+*.zip
+**/*.iml
+**/.idea/
+**/.gradle/
+**/build/
+**/target/
+**/out/
+
+**/doc/**/.~*
